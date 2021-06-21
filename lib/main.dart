@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_chatnew/helper/authenticate.dart';
-import 'package:flutter_chatnew/helper/helperfunctions.dart';
-import 'package:flutter_chatnew/views/chatrooms.dart';
+import 'package:flutter_chart/helper/authenicate.dart';
+import 'package:flutter_chart/helper/helperfunctions.dart';
+import 'package:flutter_chart/views/chatrooms.dart';
+
 
 
 void main() {
