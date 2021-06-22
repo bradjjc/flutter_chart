@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_chart/views/signin.dart';
 import 'package:flutter_chart/views/signup.dart';
 
-
-
 class Authenticate extends StatefulWidget {
   @override
   _AuthenticateState createState() => _AuthenticateState();
